@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DynamicElementsStorage">
+    <option name="containingClasses">
+      <map>
+        <entry key="com.cisco.ucs.ucsDomainService">
+          <value>
+            <DClassElement>
+              <option name="name" value="com.cisco.ucs.ucsDomainService" />
+              <option name="myName" value="com.cisco.ucs.ucsDomainService" />
+              <option name="myMethods">
+                <set>
+                  <DMethodElement>
+                    <option name="name" value="getNetworkInterfaces" />
+                    <option name="type" value="java.lang.Object" />
+                    <option name="myType" value="java.lang.Object" />
+                    <option name="myStatic" value="false" />
+                    <option name="myName" value="getNetworkInterfaces" />
+                  </DMethodElement>
+                </set>
+              </option>
+            </DClassElement>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
+
